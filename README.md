@@ -314,7 +314,7 @@ Introducing the best Laravel framework training courses in Persian
 
 ## Videos
 
-* [jobteam](https://jobteam.ir/)
+* [Jobteam Laravel](https://jobteam.ir/Course/178-Laravel-course-building-online-store)
 * [Laracasts](https://laracasts.com/)
 * [Codecourse](https://www.codecourse.com/) ([YouTube](https://www.youtube.com/user/phpacademy/playlists))
 * [Tuts+](http://code.tutsplus.com/categories/laravel/courses)
@@ -485,7 +485,7 @@ Introducing the best Laravel framework training courses in Persian
 
 ##### Local User Groups
 * [Laravel Global Community](https://www.facebook.com/groups/group.laravel/)
-* [Laravel Iran](https://jobteam.ir/category/Laravel) ([linkedin](https://www.linkedin.com/company/jobteamir/),[instagram](https://www.instagram.com/jobteam.ir/), [Twitter](https://twitter.com/jobteam1)
+* [Laravel Iran](https://jobteam.ir/category/Laravel) ([linkedin](https://www.linkedin.com/company/jobteamir/),[instagram](https://www.instagram.com/jobteam.ir/), [Twitter](https://twitter.com/jobteam1))
 
 ##### Meetups
 
