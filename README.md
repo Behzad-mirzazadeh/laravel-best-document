@@ -1,5 +1,5 @@
-# laravel-course-persian
-Introducing the best Laravel framework training courses in Persian
+# laravel-best-document
+Introducing the best Laravel framework training Document in Persian and Other
 
 ## Table of Contents
 
