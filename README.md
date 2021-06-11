@@ -111,6 +111,10 @@ Introducing the best Laravel framework training Document in Persian and Other
 * [Laravel Datatables](https://github.com/yajra/laravel-datatables) - jQuery DataTables API
 * [Laravel GeoIP](https://github.com/Torann/laravel-geoip) - Determine the location of website visitors based on their IP addresses
 * [Laravel Hashids](https://github.com/vinkla/laravel-hashids) - Generate unique, non-sequential ids using [Hashids](http://hashids.org/php/)
+* [Laravel permission](https://github.com/spatie/laravel-permission) - Associate users with roles and permissions
+* [Laravel file manager](https://github.com/alexusmai/laravel-file-manager) - File manager for Laravel
+* [Laravel file manager](https://github.com/UniSharp/laravel-filemanager) - Media gallery with CKEditor, TinyMCE and Summernote support. Built on Laravel file system
+* [Short URL](https://github.com/ash-jc-allen/short-url) - A Laravel package for creating shortened URLs for your web apps
 * [Laravel Impersonate](https://github.com/404labfr/laravel-impersonate) - A package to authenticate as one of your users
 * [Laravel Mailbox](https://github.com/beyondcode/laravel-mailbox) - A package to handle incoming emails
 * [Laravel Markdown](https://github.com/GrahamCampbell/Laravel-Markdown) - CommonMark markdown parser
