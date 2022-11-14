@@ -319,7 +319,7 @@ Introducing the best Laravel framework training Document in Persian and Other
 
 ## Videos
 
-* [Jobteam Laravel](https://jobteam.ir/Course/178-Laravel-course-building-online-store)
+* [course Laravel](https://jobteam.ir/Course/178-Laravel-course-building-online-store)
 * [Laracasts](https://laracasts.com/)
 * [Codecourse](https://www.codecourse.com/) ([YouTube](https://www.youtube.com/user/phpacademy/playlists))
 * [Tuts+](http://code.tutsplus.com/categories/laravel/courses)
@@ -366,7 +366,7 @@ Introducing the best Laravel framework training Document in Persian and Other
 
 ## Books
 
-* [Laravel: step by step](https://jobteam.ir/category/Laravel) by Behzad mirzazadeh
+* [Laravel](https://jobteam.ir/category/Laravel) by Behzad mirzazadeh
 * [Laravel Starter](https://www.amazon.com/Laravel-Starter-Shawn-McCool-ebook/dp/B00ABFQ0AS) by Shawn McCool
 * [Laravel: Code Happy](https://leanpub.com/codehappy) by Dayle Rees
 * [Laravel: Code Bright](https://leanpub.com/codebright) by Dayle Rees
