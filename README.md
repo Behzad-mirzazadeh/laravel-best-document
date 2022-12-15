@@ -30,7 +30,7 @@ Introducing the best Laravel framework training Document in Persian and Other
 * [Lumen](https://lumen.laravel.com) ([Documentation](https://lumen.laravel.com/docs))
 * [Laracasts](https://laracasts.com)
 * [Laravel News](https://laravel-news.com) ([Archive](https://laravel-news.com/archive/))
-* [laravel jobteam](https://jobteam.ir/category/Laravel) ([Archive](https://jobteam.ir/category/Laravel))
+* [laravel jobteam](https://jobteam.ir/category/Laravel)
 
 ## Packages
 
